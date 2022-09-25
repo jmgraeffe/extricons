@@ -8,7 +8,7 @@ You could easily use this as an extension to your Font-Awesome or Glyphicons ico
 * Discord icon
 * ... want to have more? Just create an issue with a SVG file or create a pull request!
 
-You can find an overview about the [icons on the demo.html](https://j0nnib0y.github.io/extricons/demo.html) (there you will find the names too).
+You can find an overview about the [icons on the demo.html](https://jmgraeffe.github.io/extricons/demo.html) (there you will find the names too).
 
 ## How to use it
 
@@ -20,7 +20,7 @@ Then you can use the icons everywhere, like:
 
     <i class="ei-teamspeak"></i>
 
-##Used tools & vectors
+## Used tools & vectors
 
 ### Tools
 * [Icomoon App](https://icomoon.io/app/) (probably one of the best tools for creating icon-ic fonts)
